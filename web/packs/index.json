@@ -1,6 +1,29 @@
 {
   "packs": [
-    "Umamusume_Pretty_Derby_2nd_Race.json"
+    "Umamusume__Pretty_Derby_1st_Race.json",
+    "Umamusume_Pretty_Derby_2nd_Race.json",
+    "TV_anime__Umamusume_Pretty_Derby.json",
+    "Uma_Musume_Pretty_Derby_Season_2.json",
+    "Paka_Tube_Sticker.json",
+    "Blue_Archive_Stickers_Vol._1.json",
+    "Bocchi_The_Rock_by_Aki_Hamazi.json",
+    "Bocchi_the_Rock_vol.2_by_Aki_Hamazi.json",
+    "Heaven_Burns_Red_Vol.1.json",
+    "Heaven_Burns_Red_Vol.2.json",
+    "Heaven_Burns_Red_Vol.3.json",
+    "765_PROs_DAIDOKORO_Stickers_vol.1.json",
+    "THE_IDOLMSTER_CINDERELLA_GIRLS.json",
+    "THE_IDOLMSTER_CINDERELLA_GIRLS_Vol._2.json",
+    "THE_IDOLMSTER_Million_Live_Chibi_Ver.json",
+    "THE_IDOLMSTER_Million_Live_Chibi_Ver.2.json",
+    "THE_IDOLMSTER_Million_Live_Chibi_Ver.3.json",
+    "THE_IDOLMSTER_SHINY_COLORS.json",
+    "SHINY_COLORS_Stickers_By_gimmy.json",
+    "Taiko_no_Tatsujin__taiko_friends_stamp.json",
+    "Princess_Connect_Re__Dive.json",
+    "Princess_Connect_Re__Dive_Vol._2.json",
+    "PRINCESS_CONNECT_Re_Dive_3.json",
+    "Princess_Connect_Re__Dive_Vol._4.json"
   ],
   "homeserver_url": "https://matrix.seanpai.dev"
 }
