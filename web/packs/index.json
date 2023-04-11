@@ -28,10 +28,10 @@
     "Anubis_loli.json",
     "Dont_Toy_With_Me_Miss_Nagatoro.json",
     "Nagatoro-san_Sticker.json",
-    "KAF_#1.json",
-    "KAF_#2.json",
-    "Kizuna_AI_#01.json",
-    "Kizuna_AI_#02.json"
+    "Kizuna_AI_01.json",
+    "Kizuna_AI_02.json",
+    "KAF_1.json",
+    "KAF_2.json"
   ],
   "homeserver_url": "https://matrix.seanpai.dev"
 }
