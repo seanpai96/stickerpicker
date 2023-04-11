@@ -65,7 +65,12 @@
     "Animated_stickers_from_Kaguya-sama.json",
     "DANGANRONPA12_Reload.json",
     "Penguindrum.json",
-    "DIVIDE_UNDER_NIGHT_IN-BIRTH_Stickers.json"
+    "DIVIDE_UNDER_NIGHT_IN-BIRTH_Stickers.json",
+    "Your_Name.json",
+    "Your_Name._2.json",
+    "Weathering_with_You.json",
+    "Weathering_With_You__Vol._2.json",
+    "Suzume.json"
   ],
   "homeserver_url": "https://matrix.seanpai.dev"
 }
